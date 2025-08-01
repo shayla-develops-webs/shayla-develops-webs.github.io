@@ -1,3 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your existing styles below */
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* ... rest of your CSS ... */
+}
+/* Global styles */
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
